@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+plotly
+pandas
+scikit-learn
+histolab
+openslide-python
+py-params
+matplotlib
+torchmetrics
+wandb
