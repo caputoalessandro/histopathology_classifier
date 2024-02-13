@@ -1,6 +1,5 @@
 # hstopathology_classifier
 
-Abstract
 Colorectal cancer is a common and potentially deadly cancer that affects the colon or rectum.
 Histopathological image analysis is considered the standard method used by pathologists to
 classify colorectal cancers based on their differentiation types. However, the subjective na-
